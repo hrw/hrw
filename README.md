@@ -20,4 +20,4 @@ I have set of repositories here. Some were even forked by other users (most of t
 
 Touched countless repos. I often contribute to projects just to vanish once it gets merged (so called [drive-by coding](https://marcin.juszkiewicz.com.pl/2020/09/16/from-a-diary-of-aarch64-porter-drive-by-coding/)).
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hrw)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hrw&theme=blue-green )
